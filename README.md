@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Contact me: 
 - :baby_chick: [Twitter](https://twitter.com/alicialcaide "Twitter")
-- :memo: [Kaggle] (https://www.kaggle.com/alicialcaide "Kaggle")
+- :memo: [Kaggle](https://www.kaggle.com/alicialcaide "Kaggle")
 - :mailbox: [Email](mailto:alcaidelaserna@gmail.com)
 - :computer: [Web](https://www.alicialcaide.com "Web personal")
