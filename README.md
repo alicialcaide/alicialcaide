@@ -12,7 +12,8 @@ Soy Consultora de Business Intelligence y Data Science.
 alicialcaide/alicialcaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicialcaide&show_icons=true&theme=vue)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicialcaide&show_icons=true&theme=vue)" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicialcaide&layout=compact)](https://github.com/alicialcaide/github-readme-stats)
