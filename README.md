@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicialcaide&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicialcaide&layout=compact)](https://github.com/alicialcaide/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicialcaide&layout=compact&theme=vue)](https://github.com/alicialcaide/github-readme-stats)
