@@ -1,12 +1,12 @@
-### Hey there!
+### Hey! 👋 Soy @alicialcaide
 
-¡Hola! 👋 Soy @alicialcaide
+Consultora de Business Intelligence y Data Science.
 
-Soy Consultora de Business Intelligence y Data Science.
+:mortar_board: Microstrategy - Analyst (ANL) Certification
+:mortar_board: Microsoft - Data Analyst Associate
 
-- 👀 Me interesa: Machine Learning y Inteligencia Artificial (IA)
-- 🌱 Ahora estoy aprendiendo Python en sus diferentes facetas
-- 📫 Podrás encontrarme en: [Twitter](https://twitter.com/alicialcaide "Twitter")
+- 👀 Next: Machine Learning y Data Science
+- 🌱 Aprendiendo Python en sus diferentes facetas.
 
 <!---
 alicialcaide/alicialcaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,8 @@ You can click the Preview link to take a look at your changes.
 ![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicialcaide&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicialcaide&layout=compact&theme=vue)](https://github.com/alicialcaide/github-readme-stats)
+
+### Contact me: 
+- :baby_chick: [Twitter](https://twitter.com/alicialcaide "Twitter")
+- :mailbox: [Email](mailto:alcaidelaserna@gmail.com)
+- :computer: [Web](https://www.alicialcaide.com "Web personal")
