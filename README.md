@@ -1,6 +1,6 @@
 ### Hey! 👋 Soy @alicialcaide
 
-Consultora de Business Intelligence y Data Science.
+Currently, I am working as a Data Analyst.
 
 :mortar_board: Microstrategy - Analyst (ANL) Certification
 :mortar_board: Microsoft - Data Analyst Associate
