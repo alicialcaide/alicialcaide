@@ -5,8 +5,8 @@ Currently, I am working as a Data Analyst.
 :mortar_board: Microstrategy - Analyst (ANL) Certification
 :mortar_board: Microsoft - Data Analyst Associate
 
-- 👀 Next: Machine Learning y Data Science
-- 🌱 Aprendiendo Python en sus diferentes facetas.
+- 👀 Next: Machine Learning and Data Science
+- 🌱 Learning Python in many ways.
 
 <!---
 alicialcaide/alicialcaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
